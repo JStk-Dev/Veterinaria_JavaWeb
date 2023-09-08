@@ -1,0 +1,12 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<section class="contact-info">
+        <h2>Información de Contacto</h2>
+        <p>¡Estaremos encantados de escucharte! Aquí tienes nuestra información de contacto:</p>
+        <ul>
+            <li><strong>Teléfono:</strong> (123) 456-7890</li>
+            <li><strong>Correo Electrónico:</strong> info@mispatitas.com</li>
+            <li><strong>Dirección:</strong> Calle de la Veterinaria, Ciudad</li>
+        </ul>
+</section>
